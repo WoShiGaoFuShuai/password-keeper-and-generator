@@ -17,7 +17,7 @@ If you have at least one of those problems you are more than welcomed to use my 
 
 - Vue 3 Composition API;
 - Firebase for backend;
-- Awesome Icons;
+- Font Awesome Icons;
 
 ## Small implementations which might increase your User Experience or you can use some of ideas in your projects ☺️
 
