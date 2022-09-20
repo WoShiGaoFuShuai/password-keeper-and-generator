@@ -25,7 +25,7 @@ If you have at least one of those problems you are more than welcomed to use my 
 
 ![example-bar](git_images/Bar.jpg)
 
-1️⃣ You don't need to select whole password to copy it just press a clipboard and when its ticked it means you already copied your password to buffer;
+1️⃣ You don't need to select whole password to copy it just press on a clipboard and when it's ticked it means you already copied your password to buffer;
 
 ![example-clipboard](git_images/Clipboard.jpg)
 
