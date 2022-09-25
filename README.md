@@ -44,8 +44,8 @@ If you don't want to sign in new account you can always use one of those:
 
 I hope you enjoy using it. If you have any problems or ideas feel free to contact me via:
 
-📱 [Telegram] (@mackseam)
-📧 [Gmail] (efremovmaxim95@gmail.com)
+📱 [Telegram](https://t.me/lizabulkina2111)
+📧 [Gmail](efremovmaxim95@gmail.com)
 
 ## 🚀 Project setup
 
