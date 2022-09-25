@@ -37,8 +37,8 @@ If you have at least one of those problems you are more than welcomed to use my 
 
 If you don't want to sign in new account you can always use one of those:
 
-- Email: maxim1@gmail.com / Password: maxim01
-- Email: lisa1@gmail.com / Password: lisa01
+- Email: maxim1@gmail.com / Password: maxim1
+- Email: lisa01@gmail.com / Password: lisa01
 
 🙏 If you use them, please don't make a mess and don't delete all passwords
 
